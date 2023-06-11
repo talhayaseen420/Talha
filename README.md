@@ -1,4 +1,4 @@
-Hi 👋, I'm Ubaid
+Hi 👋, I'm Talha Yaseen
 
 A Passionate Software Engineer from Lahore, Pakistan
 💻 Former Software Engineer at BeyondLogicsInc — June 2022
