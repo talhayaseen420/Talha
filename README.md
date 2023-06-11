@@ -1,15 +1,12 @@
-<h1 align="left">Hi 👋, I'm Ubaid</h1>
+<h1 align="left">Hi 👋, I'm Talha Yaseen</h1>
 <h3 align="left">A Passionate Software Engineer from Lahore, Pakistan</h3>
 
-💻 Software Engineer at [Turing](https://turing.com/). — November 2022 to Present<br/>
-💻 Former Software Engineer at [Insurify](https://insurify.com/). — December 2020 to February 2023<br/>
-💻 Former Software Engineer at [Arbisoft](https://arbisoft.com/). — July 2020 to February 2023<br/>
-🎓 BS(CS) from FAST-NUCES, Lahore — August 2016 to July 2020<br/>
-🏅 Summa Cum Laude — Graduated with honor from FAST-NUCES — July 2020<br/>
-💻 Software Developer at [Techlogix](https://www.techlogix.com/) — Summers of 2019<br/>
-😎 - Level 2 on Fiverr — November 2020<br/>
+💻 Former Software Engineer at [BeyondLogicsinc](https://www.beyondlogicsinc.com/). — June 2022<br/>
+🎓 BS(IT) from Minhaj University Lahore, Lahore — August 2017 to July 2021<br/>
+🏅 Summa Cum Laude — Graduated with honor from Minhaj University — July 2021<br/>
+😎 - Level 1 on Fiverr<br/>
 
-📫 How to reach me **ubaid.m.naeem@gmail.com**
+📫 How to reach me **talhayaseen420@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
