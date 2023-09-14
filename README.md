@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Talha Yaseen</h1>
 <h3 align="left">A Passionate Software Engineer from Lahore, Pakistan</h3>
 
-💻 Former Software Engineer at [BeyondLogicsinc](https://www.beyondlogicsinc.com/). — June 2022<br/>
-🎓 BS(IT) from Minhaj University Lahore, Lahore — August 2017 to July 2021<br/>
-🏅 Summa Cum Laude — Graduated with honor from Minhaj University — July 2021<br/>
+💻 Former Software Engineer at [BeyondLogicsinc](https://www.beyondlogicsinc.com/). — June 2019<br/>
+🎓 BS(IT) from Minhaj University Lahore, Lahore — August 2015 to July 2019<br/>
+🏅 Summa Cum Laude — Graduated with honor from Minhaj University — July 2019<br/>
 😎 - Level 1 on Fiverr<br/>
 
 📫 How to reach me **talhayaseen420@gmail.com**
