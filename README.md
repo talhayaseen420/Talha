@@ -2,7 +2,7 @@
 <h3 align="left">A Passionate Software Engineer from Lahore, Pakistan</h3>
 
 
-💻 Former Software Engineer at [MAGNATEC SYSTEMS](https://magnatecsystems.com/). — Apr 2024
+💻 Former Software Engineer at [MAGNATEC SYSTEMS](https://magnatecsystems.com/). — April 2024
 <br />
 💻 Former Software Engineer at [BEYOND LOGICS](https://www.beyondlogicsinc.com/). — July 2022
 <br />
