@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Talha Yaseen</h1>
 <h3 align="left">A Passionate Software Engineer from Lahore, Pakistan</h3>
 
-💻 Former Software Engineer at [BeyondLogicsinc](https://www.beyondlogicsinc.com/). — July 2022
+💻 Former Software Engineer at [MAGNATEC SYSTEMS](https://magnatecsystems.com/). — July 2022
 <br />
 🎓 BS(IT) from Minhaj University Lahore, Lahore — August 2017 to July 2021
 <br />
