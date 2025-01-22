@@ -8,7 +8,7 @@
 <br />
 🎓 BS(IT) from Minhaj University Lahore, Lahore — August 2017 to July 2021
 <br />
-🏅 Summa Cum Laude — Graduated with honor from Minhaj University — July 2021
+🏅 Graduated with honor from Minhaj University — July 2021
 <br />
 😎 - Level 1 on Fiverr
 <br />
