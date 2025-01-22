@@ -4,7 +4,7 @@
 
 💻 Former Software Engineer at [MAGNATEC SYSTEMS](https://magnatecsystems.com/). — April 2024
 <br />
-💻 Former Software Engineer at [BEYOND LOGICS](https://www.beyondlogicsinc.com/). — July 2022
+💻 Former Software Engineer at [BEYOND LOGICS](https://www.beyondlogicsinc.com/). — July 2021
 <br />
 🎓 BS(IT) from Minhaj University Lahore, Lahore — August 2017 to July 2021
 <br />
